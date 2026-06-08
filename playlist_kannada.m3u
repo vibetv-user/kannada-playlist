@@ -1,3 +1,57 @@
-#EXTM3U
-# Playlist for kannada generated at Mon Jun  8 15:48:24 UTC 2026
+#EXTM3U url-tvg="http://64.227.180.108:8080/kannada/epg.xml" tvg-shift=0
+# Playlist for kannada generated at Mon Jun  8 15:49:13 UTC 2026
 
+#EXTINF:-1 tvg-id="ZeeKannada.in" tvg-name="Zee Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8?utc={utc}",Zee Kannada
+https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
+#EXTINF:-1 tvg-id="ColorsKannada.in" tvg-name="Colors Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="http://filex.me:8080/live/646467/646467/499659.m3u8?utc={utc}",Colors Kannada
+http://filex.me:8080/live/646467/646467/499659.m3u8
+#EXTINF:-1 tvg-id="UdayaTV.in" tvg-name="Udaya TV" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://gist.github.com/shabbir-hasan/16514b8c2f5aba8285c87460b6b5ef83?utc={utc}",Udaya TV
+https://gist.github.com/shabbir-hasan/16514b8c2f5aba8285c87460b6b5ef83
+#EXTINF:-1 tvg-id="StarSuvarna.in" tvg-name="Star Suvarna" group-title="kannada" catchup="append" catchup-days="7" catchup-source="http://filex.me:8080/live/646467/646467/499659.m3u8?utc={utc}",Star Suvarna
+http://filex.me:8080/live/646467/646467/499659.m3u8
+#EXTINF:-1 tvg-id="StarSuvarnaPlus.in" tvg-name="Star Suvarna Plus" group-title="kannada" catchup="append" catchup-days="7" catchup-source="http://iptvcasomsapi.jprdigital.in/x-media/C0486/master.m3u8?utc={utc}",Star Suvarna Plus
+http://iptvcasomsapi.jprdigital.in/x-media/C0486/master.m3u8
+#EXTINF:-1 tvg-id="ZeePicchar.in" tvg-name="Zee Picchar" group-title="kannada" catchup="append" catchup-days="7" catchup-source="http://filex.me:8080/live/646467/646467/499672.m3u8?utc={utc}",Zee Picchar
+http://filex.me:8080/live/646467/646467/499672.m3u8
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://github.com/iptv-org/iptv/issues/30738?utc={utc}",Udaya Movies
+https://github.com/iptv-org/iptv/issues/30738
+#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u?utc={utc}",TV9 Kannada
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+#EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8?utc={utc}",Public TV
+https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="News18Kannada.in" tvg-name="News18 Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://jmp2.uk/stvp-INBD2500012V1?utc={utc}",News18 Kannada
+https://jmp2.uk/stvp-INBD2500012V1
+#EXTINF:-1 tvg-id="KasthuriTV.in" tvg-name="Kasthuri TV" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://github.com/iptv-org/iptv/issues/30738?utc={utc}",Kasthuri TV
+https://github.com/iptv-org/iptv/issues/30738
+#EXTINF:-1 tvg-id="RajNewsKannada.in" tvg-name="Raj News Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="http://103.159.180.34:5001/live/651.m3u8?utc={utc}",Raj News Kannada
+http://103.159.180.34:5001/live/651.m3u8
+#EXTINF:-1 tvg-id="SiriKannada.in" tvg-name="Siri Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://github.com/iptv-org/iptv/issues/30738?utc={utc}",Siri Kannada
+https://github.com/iptv-org/iptv/issues/30738
+#EXTINF:-1 tvg-id="RepublicKannada.in" tvg-name="Republic Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://jmp2.uk/stvp-IN1600006GA?utc={utc}",Republic Kannada
+https://jmp2.uk/stvp-IN1600006GA
+#EXTINF:-1 tvg-id="JanataaTV.in" tvg-name="Janataa TV Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://alex4528.site/jplus/lOiLOOLolOOLlO0ILIi1oo/manifest.mpd?utc={utc}",Janataa TV Kannada
+https://alex4528.site/jplus/lOiLOOLolOOLlO0ILIi1oo/manifest.mpd
+#EXTINF:-1 tvg-id="BTVNews.in" tvg-name="BTV News Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://github.com/iptv-org/iptv/issues/30738?utc={utc}",BTV News Kannada
+https://github.com/iptv-org/iptv/issues/30738
+#EXTINF:-1 tvg-id="PowerTV.in" tvg-name="Power TV Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://github.com/iptv-org/iptv/issues/30738?utc={utc}",Power TV Kannada
+https://github.com/iptv-org/iptv/issues/30738
+#EXTINF:-1 tvg-id="DigvijayNews.in" tvg-name="Digvijay News" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://github.com/iptv-org/iptv/issues/30738?utc={utc}",Digvijay News
+https://github.com/iptv-org/iptv/issues/30738
+#EXTINF:-1 tvg-id="SamayaNews.in" tvg-name="Samaya News Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://github.com/iptv-org/iptv/issues/30738?utc={utc}",Samaya News Kannada
+https://github.com/iptv-org/iptv/issues/30738
+#EXTINF:-1 tvg-id="TV5Kannada.in" tvg-name="TV5 Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://github.com/iptv-org/iptv/issues/30738?utc={utc}",TV5 Kannada
+https://github.com/iptv-org/iptv/issues/30738
+#EXTINF:-1 tvg-id="NewsFirst.in" tvg-name="News First Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://github.com/iptv-org/iptv/issues/30738?utc={utc}",News First Kannada
+https://github.com/iptv-org/iptv/issues/30738
+#EXTINF:-1 tvg-id="V4News.in" tvg-name="V4 News" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://amg00312-amg00312c44-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c44-amgplt0022/playlist.m3u8?gpp_sid=%7bGPP_SID%7d&inv_partner_domain=%7bINV_PARTNER_DOMAIN%7d&iu=%7bIU%7d&network_name=%7bNETWORK_NAME%7d&w=%7bWIDTH%7d&content_livestream=%7bCONTENT_LIVESTREAM%7d&device_make=%7bDEVICE_MAKE%7d&skip=%7bSKIPPABLE%7d&ic=%7bIC%7d&did=%7bADID%7d&h=%7bHEIGHT%7d&lmt=%7bLMT%7d&pod_ad_slots=%7bPOD_AD_SLOTS%7d&prodq=%7bPRODQ%7d&gpp=%7bGPP%7d&us_privacy=%7bUSPRIVACY%7d&app_name=%7bAPP_NAME%7d&channel_name=%7bCHANNEL_NAME%7d&coppa=0&ifa_type=%7bIFATYPE%7d&schain=%7bSCHAIN%7d&tv_ad_id=%7bTV_AD_ID%7d&url=%7bDOMAIN%7d&app_store_url=%7bAPP_STORE_URL%7d&dnt=%7bDNT%7d&is_lat=%7bIS_LAT%7d&ad_pos=%7bAD_POS%7d&app_bundle=%7bAPP_BUNDLE%7d&vizio_network_name=%7b%7bVIZIO_NETWORK_NAME%7d%7d&idtype=%7bIDTYPE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwMzQxMjExNX0?utc={utc}",V4 News
+https://amg00312-amg00312c44-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c44-amgplt0022/playlist.m3u8?gpp_sid=%7bGPP_SID%7d&inv_partner_domain=%7bINV_PARTNER_DOMAIN%7d&iu=%7bIU%7d&network_name=%7bNETWORK_NAME%7d&w=%7bWIDTH%7d&content_livestream=%7bCONTENT_LIVESTREAM%7d&device_make=%7bDEVICE_MAKE%7d&skip=%7bSKIPPABLE%7d&ic=%7bIC%7d&did=%7bADID%7d&h=%7bHEIGHT%7d&lmt=%7bLMT%7d&pod_ad_slots=%7bPOD_AD_SLOTS%7d&prodq=%7bPRODQ%7d&gpp=%7bGPP%7d&us_privacy=%7bUSPRIVACY%7d&app_name=%7bAPP_NAME%7d&channel_name=%7bCHANNEL_NAME%7d&coppa=0&ifa_type=%7bIFATYPE%7d&schain=%7bSCHAIN%7d&tv_ad_id=%7bTV_AD_ID%7d&url=%7bDOMAIN%7d&app_store_url=%7bAPP_STORE_URL%7d&dnt=%7bDNT%7d&is_lat=%7bIS_LAT%7d&ad_pos=%7bAD_POS%7d&app_bundle=%7bAPP_BUNDLE%7d&vizio_network_name=%7b%7bVIZIO_NETWORK_NAME%7d%7d&idtype=%7bIDTYPE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwMzQxMjExNX0
+#EXTINF:-1 tvg-id="SafeTV.in" tvg-name="Safe TV Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://github.com/iptv-org/iptv/issues/30738?utc={utc}",Safe TV Kannada
+https://github.com/iptv-org/iptv/issues/30738
+#EXTINF:-1 tvg-id="UdayaMusic.in" tvg-name="Udaya Music" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://github.com/iptv-org/iptv/issues/30738?utc={utc}",Udaya Music
+https://github.com/iptv-org/iptv/issues/30738
+#EXTINF:-1 tvg-id="PrajaTV.in" tvg-name="Praja TV" group-title="kannada" catchup="append" catchup-days="7" catchup-source="http://prajatv.mythrimediaindia.com:1935/prajatv/prajatv/index.m3u8?utc={utc}",Praja TV
+http://prajatv.mythrimediaindia.com:1935/prajatv/prajatv/index.m3u8
+#EXTINF:-1 tvg-id="SankaraTV.in" tvg-name="Sankara TV" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://cdn-3.pishow.tv/live/1135/master.m3u8?checkedby:iptvcat.com?utc={utc}",Sankara TV
+https://cdn-3.pishow.tv/live/1135/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="ShreyasTV.in" tvg-name="Shreyas TV" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://mumbai-edge.smartplaytv.in/ShreyasTV/tracks-v1a1/mono.m3u8?utc={utc}",Shreyas TV
+https://mumbai-edge.smartplaytv.in/ShreyasTV/tracks-v1a1/mono.m3u8
