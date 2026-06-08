@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://64.227.180.108:8080/kannada/epg.xml" tvg-shift=0
-# Playlist for kannada generated at Mon Jun  8 18:44:30 UTC 2026
+# Playlist for kannada generated at Mon Jun  8 18:44:40 UTC 2026
 
 #EXTINF:-1 tvg-id="ZeeKannada.in" tvg-name="Zee Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8?utc={utc}",Zee Kannada
 https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
@@ -50,6 +50,8 @@ https://amg00312-amg00312c44-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playli
 #EXTINF:-1 tvg-id="SafeTV.in" tvg-name="Safe TV Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://github.com/iptv-org/iptv/issues/30738?utc={utc}",Safe TV Kannada
 https://github.com/iptv-org/iptv/issues/30738
 #EXTINF:-1 tvg-name="Kannada TV USA" group-title="kannada",Kannada TV USA
+http://filex.me:8080/live/646467/646467/499672.m3u8
+#EXTINF:-1 tvg-name="Kannada Channel UK" group-title="kannada",Kannada Channel UK
 http://filex.me:8080/live/646467/646467/499672.m3u8
 #EXTINF:-1 tvg-name="Kannada One Canada" group-title="kannada",Kannada One Canada
 http://filex.me:8080/live/646467/646467/499672.m3u8
