@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://64.227.180.108:8080/kannada/epg.xml" tvg-shift=0
-# Playlist for kannada generated at Mon Jun  8 18:45:35 UTC 2026
+# Playlist for kannada generated at Mon Jun  8 18:45:41 UTC 2026
 
 #EXTINF:-1 tvg-id="ZeeKannada.in" tvg-name="Zee Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8?utc={utc}",Zee Kannada
 https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
@@ -49,6 +49,8 @@ https://github.com/iptv-org/iptv/issues/30738
 https://amg00312-amg00312c44-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c44-amgplt0022/playlist.m3u8?gpp_sid=%7bGPP_SID%7d&inv_partner_domain=%7bINV_PARTNER_DOMAIN%7d&iu=%7bIU%7d&network_name=%7bNETWORK_NAME%7d&w=%7bWIDTH%7d&content_livestream=%7bCONTENT_LIVESTREAM%7d&device_make=%7bDEVICE_MAKE%7d&skip=%7bSKIPPABLE%7d&ic=%7bIC%7d&did=%7bADID%7d&h=%7bHEIGHT%7d&lmt=%7bLMT%7d&pod_ad_slots=%7bPOD_AD_SLOTS%7d&prodq=%7bPRODQ%7d&gpp=%7bGPP%7d&us_privacy=%7bUSPRIVACY%7d&app_name=%7bAPP_NAME%7d&channel_name=%7bCHANNEL_NAME%7d&coppa=0&ifa_type=%7bIFATYPE%7d&schain=%7bSCHAIN%7d&tv_ad_id=%7bTV_AD_ID%7d&url=%7bDOMAIN%7d&app_store_url=%7bAPP_STORE_URL%7d&dnt=%7bDNT%7d&is_lat=%7bIS_LAT%7d&ad_pos=%7bAD_POS%7d&app_bundle=%7bAPP_BUNDLE%7d&vizio_network_name=%7b%7bVIZIO_NETWORK_NAME%7d%7d&idtype=%7bIDTYPE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwMzQxMjExNX0
 #EXTINF:-1 tvg-id="SafeTV.in" tvg-name="Safe TV Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://github.com/iptv-org/iptv/issues/30738?utc={utc}",Safe TV Kannada
 https://github.com/iptv-org/iptv/issues/30738
+#EXTINF:-1 tvg-name="Shivarajkumar Golden Hits" group-title="kannada",Shivarajkumar Golden Hits
+http://filex.me:8080/live/646467/646467/499672.m3u8
 #EXTINF:-1 tvg-name="Rakshit Shetty Creations" group-title="kannada",Rakshit Shetty Creations
 http://filex.me:8080/live/646467/646467/499672.m3u8
 #EXTINF:-1 tvg-name="Ganesh Comedy Movies" group-title="kannada",Ganesh Comedy Movies
