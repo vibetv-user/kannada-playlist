@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://64.227.180.108:8080/kannada/epg.xml" tvg-shift=0
-# Playlist for kannada generated at Mon Jun  8 15:49:13 UTC 2026
+# Playlist for kannada generated at Mon Jun  8 18:43:27 UTC 2026
 
 #EXTINF:-1 tvg-id="ZeeKannada.in" tvg-name="Zee Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8?utc={utc}",Zee Kannada
 https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
@@ -15,6 +15,8 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0486/master.m3u8
 http://filex.me:8080/live/646467/646467/499672.m3u8
 #EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://github.com/iptv-org/iptv/issues/30738?utc={utc}",Udaya Movies
 https://github.com/iptv-org/iptv/issues/30738
+#EXTINF:-1 tvg-id="ZeeKannadaHD.in" tvg-name="Zee Kannada HD" group-title="kannada" catchup="append" catchup-days="7" catchup-source="http://filex.me:8080/live/646467/646467/499672.m3u8?utc={utc}",Zee Kannada HD
+http://filex.me:8080/live/646467/646467/499672.m3u8
 #EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u?utc={utc}",TV9 Kannada
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 #EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8?utc={utc}",Public TV
