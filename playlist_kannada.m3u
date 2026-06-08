@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://64.227.180.108:8080/kannada/epg.xml" tvg-shift=0
-# Playlist for kannada generated at Mon Jun  8 18:45:28 UTC 2026
+# Playlist for kannada generated at Mon Jun  8 18:45:35 UTC 2026
 
 #EXTINF:-1 tvg-id="ZeeKannada.in" tvg-name="Zee Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8?utc={utc}",Zee Kannada
 https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
