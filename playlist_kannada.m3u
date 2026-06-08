@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://64.227.180.108:8080/kannada/epg.xml" tvg-shift=0
-# Playlist for kannada generated at Mon Jun  8 18:46:10 UTC 2026
+# Playlist for kannada generated at Mon Jun  8 18:46:26 UTC 2026
 
 #EXTINF:-1 tvg-id="ZeeKannada.in" tvg-name="Zee Kannada" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8?utc={utc}",Zee Kannada
 https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
@@ -12,6 +12,8 @@ http://filex.me:8080/live/646467/646467/499659.m3u8
 #EXTINF:-1 tvg-id="StarSuvarnaPlus.in" tvg-name="Star Suvarna Plus" group-title="kannada" catchup="append" catchup-days="7" catchup-source="http://iptvcasomsapi.jprdigital.in/x-media/C0486/master.m3u8?utc={utc}",Star Suvarna Plus
 http://iptvcasomsapi.jprdigital.in/x-media/C0486/master.m3u8
 #EXTINF:-1 tvg-id="ZeePicchar.in" tvg-name="Zee Picchar" group-title="kannada" catchup="append" catchup-days="7" catchup-source="http://filex.me:8080/live/646467/646467/499672.m3u8?utc={utc}",Zee Picchar
+http://filex.me:8080/live/646467/646467/499672.m3u8
+#EXTINF:-1 tvg-id="ColorsSuper.in" tvg-name="Colors Super" group-title="kannada" catchup="append" catchup-days="7" catchup-source="http://filex.me:8080/live/646467/646467/499672.m3u8?utc={utc}",Colors Super
 http://filex.me:8080/live/646467/646467/499672.m3u8
 #EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="Udaya Movies" group-title="kannada" catchup="append" catchup-days="7" catchup-source="https://github.com/iptv-org/iptv/issues/30738?utc={utc}",Udaya Movies
 https://github.com/iptv-org/iptv/issues/30738
